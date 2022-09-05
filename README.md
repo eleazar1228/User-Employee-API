@@ -1,12 +1,30 @@
 # Prerequisites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ThunderClient
+Tool used to test API clients. Can install in vsCode
 
-## Available Scripts
+## Npm packages installation
+Since package.json and package-lock.json already in repository, install npm i nodeman -g to get dependencies.
 
+## JWT Authentification
+Need to create an Access and Refresh Token for client API. in order to do so:
+ 1) install `npm i dotenv jsonwebtoken cookie-parser`
+ 2) Create variables ACCESS_TOKEN_SECRET and REFRESH_TOKEN_SECRET in .env file
+ 3) Type 'node' in terminal
+ 4) Type `require('crypto').randomBytes(64).toString('hex'). Copy output (without quotes) and paste it into ACCESS_TOKEN_SECRET variable
+ 5) run line again and copy output into REFRESH_TOKEN_SECRET
+
+## Mongodb
+Create a mongoDb account and create a table using this link: https://www.mongodb.com/basics/create-database
+Connect your database to your application by:
+  1) Pressing 'connect' button on your database deployment page, then click "Connect your applicaatoin" option and follow instructions
+  2) Create a  '.env' file in your project diretory (will use later) and create variable DATABASE_URI = mongodb+srv://<projectname>:            <password>@cluster0.szw7tux.mongodb.net/<database>?retryWrites=true&w=majority. This
+ 
+  
+ 
 In the project directory, you can run:
 
-### `npm start`
+### `npm dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
