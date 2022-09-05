@@ -1,0 +1,24 @@
+20220701	13:49:39	21f98c7c-9008-4b6b-bb1b-f5745638d4af	Error: Not allowed by CORS
+20220705	11:28:03	f20aca41-3e13-4cc5-9121-4e17bb22a034	ReferenceError: emp is not defined
+20220705	11:29:31	111b720c-abf6-40c9-8169-566927868903	TypeError: 2 is not a function
+20220706	15:55:37	826f1225-a8be-46d2-be10-a168cb81bd5c	TypeError: 2 is not a function
+20220706	15:57:17	458fc084-1e46-4421-9060-f649a88ab08d	TypeError: 2 is not a function
+20220706	16:02:53	900d0b9d-3c0e-41f0-aa0c-611677772ae4	ReferenceError: nice is not defined
+20220706	16:16:27	5346fd01-efb8-4d10-8036-d25f6f4488af	ReferenceError: print is not defined
+20220706	16:17:24	d6c6d7dd-02c8-4426-b112-add9f28425ab	ReferenceError: employee is not defined
+20220707	10:23:43	6eedecaa-1708-4715-a646-8d6a93919acd	SyntaxError: Unexpected token , in JSON at position 22
+20220710	19:19:17	40c0aa20-cffd-4680-9fa0-be05209c6f8f	ReferenceError: coolies is not defined
+20220710	20:19:21	22beb8b4-245f-41a2-bdf6-1ed67a2c6c53	ReferenceError: origin is not defined
+20220710	20:19:24	c9e6556f-2030-4ab5-b811-3a2045facdbf	ReferenceError: origin is not defined
+20220710	20:20:42	ffa9fe4d-f44f-4762-939b-f9d5a7d4411c	ReferenceError: origin is not defined
+20220710	20:20:45	2211fbc1-dfd4-4bec-89e5-7fc2c7435300	ReferenceError: origin is not defined
+20220710	20:20:45	2babe3b1-1620-4f56-9572-492cd2be8c65	ReferenceError: origin is not defined
+20220710	20:20:49	3d598876-4bf0-41b7-bfb7-cb10f5b3be5c	ReferenceError: origin is not defined
+20220710	20:20:49	055fc7f9-e990-4965-b793-3e5e09d7974f	ReferenceError: origin is not defined
+20220710	20:20:52	1d774825-aef0-4491-b4ba-212fc143b707	ReferenceError: origin is not defined
+20220710	20:21:34	2f435849-0422-4b1e-a7a6-f04a0a47a1c7	TypeError: allowedOrigins.includes is not a function
+20220710	20:21:37	352ca1c5-0a34-4b85-881f-8e17ec064604	TypeError: allowedOrigins.includes is not a function
+20220713	13:29:51	c0ebfaaf-8785-4fb4-979a-4a3ebd822747	SyntaxError: Unexpected token c in JSON at position 8
+20220713	13:35:49	891757dc-3932-479b-b421-8e4aa94755f0	SyntaxError: Unexpected string in JSON at position 35
+20220714	14:28:34	222ebac5-834b-4aec-9e64-520f06791aac	SyntaxError: Unexpected token r in JSON at position 41
+20220714	14:30:27	fa7310d3-2ef3-4817-8ab3-ca26a7ac74f8	SyntaxError: Unexpected token r in JSON at position 41
